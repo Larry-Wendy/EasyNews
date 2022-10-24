@@ -1,4 +1,4 @@
 # EasyNews 
 ### An Instagram Flavor News app based on Google Component Architectural MVVM
 
-<img src="https://github.com/Larry-Wendy/EasyNews/blob/main/1.gif" width="420" height="900"/>
+<img src="https://github.com/Larry-Wendy/EasyNews/blob/main/1.gif" width="350" height="800"/>
